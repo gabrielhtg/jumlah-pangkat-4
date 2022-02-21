@@ -4,7 +4,7 @@
 ; PRODI   : S1 INFORMATIKA
 ; ---------------------------------------------------------------------------------
 ; DEFENISI DAN SPESIFIKASI
-; Nama Fungsi                                                         JML_FX4 (x y)
+; Nama Fungsi                                                         do-it (x y)
 
 ; FX2 : integer --> integer
 ; {FX2 (x) menentukan nilai kuadrat dari variabel x}
@@ -12,8 +12,8 @@
 ; FY2 : integer --> integer
 ; {FY2 (y) menentukan nilai kuadrat dari variabel y}
 
-; JML_FX4 : integer --> integer
-; {JML_FX4 (x y) menentukan nilai y dipangkat 4 ditambah dengan x dipangkat 4 dengan x /= y}
+; do-it : integer --> integer
+; {do-it (x y) menentukan nilai y dipangkat 4 ditambah dengan x dipangkat 4 dengan x /= y}
 ; ---------------------------------------------------------------------------------
 ; REALISASI LISP
 
@@ -26,7 +26,7 @@
 )
 
 
-(defun jumlahkan (x y)
+(defun do-it (x y)
     (if (= x y)
     (write-line "false")
     )
@@ -37,8 +37,8 @@
 ; ---------------------------------------------------------------------------------
 ; APLIKASI
 
-; --> (JML_FX4 2 3)
+; --> (do-it 2 3)
 ;       97
-; --> (JML_FX4 4 5)
+; --> (do-it 4 5)
 ;       881
 ; ---------------------------------------------------------------------------------
