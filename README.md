@@ -2,9 +2,9 @@
 
 This is a program made with LISP programming languages with the aim of completing the Basic Programming task. <br><br>
 
-Ada dua versi dari program ini.
-- Versi pertama (v1) adalah versi yang dimana x = y diperbolehkan.
-- Versi kedua (v2) adalah versi yang dimana x /= y atau x = y tidak diperbolehkan.
+There are two versions of this program.
+- The first version (v1) is a version where x = y is allowed.
+- The second version (v2) is a version where x / = y or x = y is not allowed.
 
 ## <b>How to use</b>
 
