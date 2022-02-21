@@ -4,7 +4,9 @@ This is a program made with LISP programming languages with the aim of completin
 
 There are two versions of this program.
 - The first version (v1) is a version where x = y is allowed.
+![ss1](https://github.com/gabrielhtg/jumpa4/blob/master/ss1.png?raw=true)
 - The second version (v2) is a version where x / = y or x = y is not allowed.
+![ss2](https://github.com/gabrielhtg/jumpa4/blob/master/ss2.png?raw=true)  
 
 ## <b>How to use</b>
 
