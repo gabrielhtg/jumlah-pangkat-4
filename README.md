@@ -2,6 +2,8 @@
 
 This is a program made with LISP programming languages with the aim of completing the Basic Programming task. <br><br>
 
+Berikut cara membuatnya:
+<button><a href="https://youtu.be/353iOGgf5JY">Click Here</a></button> <br> <br>
 There are two versions of this program.
 - The first version (v1) is a version where x = y is allowed.
 ![ss1](https://github.com/gabrielhtg/jumpa4/blob/master/ss1.png?raw=true)
